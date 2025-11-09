@@ -1,2 +1,2 @@
 # fetch-ready
-Standard event that be used cross-library
+Standard event that can be used cross-library

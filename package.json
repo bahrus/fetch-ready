@@ -1,7 +1,7 @@
 {
   "name": "fetch-ready",
   "version": "0.0.0",
-  "description": "Standard event that be used cross-library",
+  "description": "Standard event that can be used cross-library",
   "homepage": "https://github.com/bahrus/fetch-ready#readme",
   "bugs": {
     "url": "https://github.com/bahrus/fetch-ready/issues"
