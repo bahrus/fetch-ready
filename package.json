@@ -1,0 +1,20 @@
+{
+  "name": "fetch-ready",
+  "version": "0.0.0",
+  "description": "Standard event that be used cross-library",
+  "homepage": "https://github.com/bahrus/fetch-ready#readme",
+  "bugs": {
+    "url": "https://github.com/bahrus/fetch-ready/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/fetch-ready.git"
+  },
+  "license": "MIT",
+  "author": "Bruce B. Anderson <anderson.bruce.b@gmail.com>",
+  "type": "module",
+  "main": "FetchReadyEvent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
